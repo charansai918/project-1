@@ -1,0 +1,45 @@
+.App {
+  text-align: center;
+  
+ 
+}
+
+/* .container{
+  background-color: antiquewhite;
+  padding-left: 200px;
+} */
+
+/* .bg-body-tertiary{
+  background-color: bisque;
+  
+  
+} */
+
+#bell-icon{
+  width: 30px;
+  height: 30px;
+  color: blue;
+}
+
+#icon-logo{
+  width: 30px;
+  height: 30px;
+  color: blue;
+  
+}
+
+.image-logo{
+ width: 80px;
+ color: blue;
+
+}
+
+.head-title{
+  color: blue;
+  
+}
+
+.welcome{
+  color: blue;
+}
+
